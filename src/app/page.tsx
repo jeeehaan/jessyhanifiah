@@ -1,7 +1,5 @@
+import { Hero } from "@/components/hero";
+
 export default function Home() {
-  return (
-    <div className="flex h-screen items-center justify-center">
-      <p>Web Porfolio Jessy Hanifiah</p>
-    </div>
-  );
+  return <Hero />;
 }

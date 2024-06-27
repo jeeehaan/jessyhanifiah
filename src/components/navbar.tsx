@@ -15,7 +15,7 @@ export const Navbar = () => {
   return (
     <div className="mx-auto flex max-w-7xl justify-between border-b p-4">
       <div>
-        <Link href="/" className="font-bold">
+        <Link href="/" className="font-bold text-[#fe68a7]">
           Jeeehaan
         </Link>
       </div>
